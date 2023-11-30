@@ -19,5 +19,3 @@ This allows the application to treat different shapes uniformly, regardless of t
 Abstraction: 
 The application abstracts the details of drawing different shapes. The Shape class provides an abstract draw method that is implemented by each shape class. 
 This hides the complexity of drawing each shape, exposing only the necessary details to the user.
-
-## You can find the code in Code File ##
