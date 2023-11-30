@@ -30,6 +30,8 @@ This hides the complexity of drawing each shape, exposing only the necessary det
 	5- Override abstract methods in children classes
 	6- Use mouseEvents to draw 
 */
+
+
 import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.*;
